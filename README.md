@@ -2,6 +2,8 @@
 ## Ging: Voice-Controlled Desktop Assistant
 Ging is a desktop assistant program written in Python using Tkinter for the graphical user interface and various libraries for voice recognition, web scraping, and automation. This assistant responds to voice commands, allowing users to perform tasks such as controlling virtual meetings, opening applications, searching the web, and more.
 
+[Yotube : Desktop Application Demo](https://www.youtube.com/watch?v=G3SEwhey1qw)
+
 # Features
 - voice Commands: Interact with Ging using voice commands to perform various tasks.
 - Meeting Controls: Control virtual meetings with commands for microphone, camera, chat, raise hand, and participant controls.
