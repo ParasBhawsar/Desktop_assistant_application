@@ -4,7 +4,7 @@ Ging is a desktop assistant program written in Python using Tkinter for the grap
 
 ![Alt text](https://github.com/ParasBhawsar/Desktop_assistant_application/blob/main/gui.png)
 
-#Video:
+# Video:
 [Yotube : Desktop Application Demo](https://www.youtube.com/watch?v=G3SEwhey1qw)
 
 # Features
